@@ -1,6 +1,6 @@
 ## Hello, I'm Nicolas
 
-I'm currently in my second year of a Cybersecurity degree. I have the AWS Certified Cloud Practitioner certification and, so far, three repositories of simulated infrastructure incident labs, each with a different AWS environment provisioned and documented by me.
+I'm currently in my second year of a Cybersecurity degree. I have the AWS Cloud Practitioner certification and, so far, three repositories of simulated infrastructure incident labs, each with a different AWS environment provisioned and documented by me.
 
 My current goal is to get my first IT internship focused on infrastructure, networking, or systems administration.
 
