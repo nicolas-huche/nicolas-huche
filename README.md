@@ -8,9 +8,9 @@ My current goal is to get my first IT internship focused on infrastructure, netw
 
 My completed repositories focus on simulated AWS infrastructure incidents:
 
-- [inc-001-ec2-http-timeout](./inc-001-ec2-http-timeout) - An EC2 instance unable to reach the web due to a VPC misconfiguration
-- [inc-002-s3-access-denied](../inc-002-s3-access-denied) - Flask application unable to synchronize with an S3 object using Boto3
-- [inc-003-route53-dns-error](../inc-003-route53-dns-error) - A Route 53 DNS misconfiguration affecting two TLS-enabled applications
+- [inc-001-ec2-http-timeout](https://github.com/nicolas-huche/inc-001-ec2-http-timeout) - An EC2 instance unable to reach the web due to a VPC misconfiguration
+- [inc-002-s3-access-denied](https://github.com/nicolas-huche/inc-002-s3-access-denied) - Flask application unable to synchronize with an S3 object using Boto3
+- [inc-003-route53-dns-error](https://github.com/nicolas-huche/inc-003-route53-dns-error) - A Route 53 DNS misconfiguration affecting two TLS-enabled applications
 
 ## In progress
 
